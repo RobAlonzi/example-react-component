@@ -25,6 +25,10 @@ The insights are passed in to the parent `InsightsPanel` component. Each child o
 
 If you would like to add features to this component, simply create a new component, and import `useInsightsPanel`. This will give any child access to the state of `InsightsPanel`, and the ability to dispatch new events to the state. If you want to remove features, just simply omit them when building this component. 
 
+## Screenshots
+![image](https://user-images.githubusercontent.com/5641600/145760381-570d913f-c3dc-4f56-8b84-b2115f3ab184.png)
+![image](https://user-images.githubusercontent.com/5641600/145760411-4945f441-df2a-4ade-8de1-5787e02568d8.png)
+
 ## Getting Started
 
 In the project directory, you can run:
